@@ -1,6 +1,3 @@
-Certainly! Here's the updated README.md with improved formatting and language:
-
-```markdown
 # Certainly! - A Simple News Tracker App
 
 Certainly! is a user-friendly web application that consolidates news articles based on different categories. Users can easily select a specific category, click the "Fetch News" button, and the app will promptly display the latest news articles from the chosen category.
